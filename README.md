@@ -19,11 +19,11 @@
   <br><br>
  <!-- 👨‍💻  Know more about me <a href ="https://Pragati.github.io/">Portfolio</a> -->
   <br><br>
- 😄 All of my projects are available at <a href="https://github.com/PragatiS11">My Github Repositories</a>
+ 😄 All of my projects are available at <a href="https://github.com/SandipBankar6900">My Github Repositories</a>
   <br><br>
  💬 Ask me about **HTML, CSS, JavaScript, React, Redux , TypeScript ,Node.js**
   <br><br>
- ⚡ How to reach me pragatishrivas2000@gmail.com
+ ⚡ How to reach me sb4540994@gmail.com
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
