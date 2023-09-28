@@ -17,7 +17,7 @@
   <br><br>
  🤔 Check Out my <a href="">Resume</a>
   <br><br>
- <!-- 👨‍💻  Know more about me <a href ="https://Pragati.github.io/">Portfolio</a> -->
+ <!-- 👨‍💻  Know more about me <a href ="https://Sandip.github.io/">Portfolio</a> -->
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/SandipBankar6900">My Github Repositories</a>
   <br><br>
@@ -29,7 +29,7 @@
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
- <a  href="https://www.linkedin.com/in/pragati-shrivas-a0759a218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a  href="https://www.linkedin.com/in/sandip-bankar-328107254/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pragatishrivas2000@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 <br />
