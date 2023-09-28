@@ -4,7 +4,7 @@
   
 <hr>
   <h2 align="center">A passionate Full Stack Web Developer</h2>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Pragati .;I+am+a+Full+Stack+Web+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Sandip .;I+am+a+Full+Stack+Web+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
