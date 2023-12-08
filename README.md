@@ -14,7 +14,7 @@
 - 💬 Ask me about **HTML | CSS | JavaScript | React.Js | Redux | TypeScript**
 
 - 📫 How to reach me **sb4540994@gmail.com**
-- *Portfolio:https://SandipBankar6900.github.io
+- Portfolio:https://SandipBankar6900.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
